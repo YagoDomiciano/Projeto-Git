@@ -39,3 +39,5 @@ Quando se está em uma nova branch, é necessário dar o push com o nome dela, n
 "git checkout main" utilizado para mudar para a branch que quiser (nesse caso para a main)
 
 Para unir a branch com a main, é necessario estar na branch principal e dar um "git merge nome-da-branch" para uni-las. Após isso, basta dar dar o push
+
+O "git clone (link do repositorio)", como o proprio nome diz, serve para poder clonar o repositório de alguem, para sua modificação
